@@ -1,2 +1,2 @@
 # Measurement-Conversion-A1
-Unit Conversion app for our first assignment as a group
+This is our groups first assignment repository for a measurement converter.
